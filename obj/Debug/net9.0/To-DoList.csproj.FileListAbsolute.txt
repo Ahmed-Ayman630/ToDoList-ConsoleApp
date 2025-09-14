@@ -1,0 +1,14 @@
+D:\courses\codveda\To-DoList\To-DoList\bin\Debug\net9.0\To-DoList.exe
+D:\courses\codveda\To-DoList\To-DoList\bin\Debug\net9.0\To-DoList.deps.json
+D:\courses\codveda\To-DoList\To-DoList\bin\Debug\net9.0\To-DoList.runtimeconfig.json
+D:\courses\codveda\To-DoList\To-DoList\bin\Debug\net9.0\To-DoList.dll
+D:\courses\codveda\To-DoList\To-DoList\bin\Debug\net9.0\To-DoList.pdb
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.AssemblyInfoInputs.cache
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.AssemblyInfo.cs
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.csproj.CoreCompileInputs.cache
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.dll
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\refint\To-DoList.dll
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.pdb
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\To-DoList.genruntimeconfig.cache
+D:\courses\codveda\To-DoList\To-DoList\obj\Debug\net9.0\ref\To-DoList.dll
