@@ -55,13 +55,14 @@ You can download the latest version of the application from the Release section:
 
 | Command | Example | Description |
 |---------|---------|-------------|
-| **add** | `ToDoListConsole.exe add "Learn C#"` | Add a new task |
-| **list** | `ToDoListConsole.exe list` | List all tasks |
-| **search** | `ToDoListConsole.exe search "C#"` | Search tasks by keyword |
-| **remove** | `ToDoListConsole.exe remove 2` | Remove task #2 |
-| **clear** | `ToDoListConsole.exe clear` | Clear all tasks |
-| **update** | `ToDoListConsole.exe update 1 "Study C# in depth"` | Update task #1 |
-| **mark** | `ToDoListConsole.exe mark 1` | Mark task #1 as completed |
-| **export** | `ToDoListConsole.exe export` | Save tasks into `tasks.txt` |
-| **import** | `ToDoListConsole.exe import` | Load tasks from `tasks.txt` |
+| ➕ **add** | `ToDoListConsole.exe add "Learn C#"` | Add a new task |
+| 📋 **list** | `ToDoListConsole.exe list` | List all tasks |
+| 🔍 **search** | `ToDoListConsole.exe search "C#"` | Search tasks by keyword |
+| ❌ **remove** | `ToDoListConsole.exe remove 2` | Remove task #2 |
+| 🧹 **clear** | `ToDoListConsole.exe clear` | Clear all tasks |
+| ✏️ **update** | `ToDoListConsole.exe update 1 "Study C# in depth"` | Update task #1 |
+| ✅ **mark** | `ToDoListConsole.exe mark 1` | Mark task #1 as completed |
+| 📤 **export** | `ToDoListConsole.exe export` | Save tasks into `tasks.txt` |
+| 📥 **import** | `ToDoListConsole.exe import` | Load tasks from `tasks.txt` |
+
 
