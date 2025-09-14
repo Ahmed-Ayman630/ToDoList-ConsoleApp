@@ -51,7 +51,7 @@ You can download the latest version of the application from the Release section:
    ```powershell
    ToDoListConsole.exe [command] [arguments]
 
-   ## ⚡ Available Commands
+## ⚡ Available Commands
 
 | Command | Example | Description |
 |---------|---------|-------------|
