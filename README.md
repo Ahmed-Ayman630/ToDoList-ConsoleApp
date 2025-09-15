@@ -73,5 +73,7 @@ You can download the latest version of the application from the Release section:
 - ✅ Working with collections to manage tasks
 - ✅ Building a practical CLI app with real-life usage
   
-
-
+## 👤 Author
+- **Ahmed Ayman**  
+- 📧 Email: [aymanahmed630@gmail.com](mailto:aymanahmed630@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-ayman-84212b283/)  
