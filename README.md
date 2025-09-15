@@ -66,3 +66,12 @@ You can download the latest version of the application from the Release section:
 | 📥 **import** | `ToDoListConsole.exe import` | Load tasks from `tasks.txt` |
 
 
+## 🎯 Learning Outcomes
+- By completing this project, I practiced and learned:
+- ✅ Applying OOP concepts in C# (Encapsulation, Class Management)
+- ✅ Handling user input/output via the command line
+- ✅ Implementing file handling (export & import)
+- ✅ Working with collections to manage tasks
+- ✅ Building a practical CLI app with real-life usage
+
+
