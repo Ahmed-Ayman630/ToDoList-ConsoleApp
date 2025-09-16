@@ -55,15 +55,15 @@ You can download the latest version of the application from the Release section:
 
 | Command | Example | Description |
 |---------|---------|-------------|
-| ➕ **add** | `To-DoList.exe add "Learn C#"` | Add a new task |
-| 📋 **list** | `To-DoList.exe list` | List all tasks |
-| 🔍 **search** | `To-DoList.exe search "C#"` | Search tasks by keyword |
-| ❌ **remove** | `ToDo-List.exe remove 2` | Remove task #2 |
-| 🧹 **clear** | `To-DoList.exe clear` | Clear all tasks |
-| ✏️ **update** | `To-DoList.exe update 1 "Study C# in depth"` | Update task #1 |
-| ✅ **mark** | `To-DoList.exe mark 1` | Mark task #1 as completed |
-| 📤 **export** | `To-DoList.exe export` | Save tasks into `tasks.txt` |
-| 📥 **import** | `To-DoList.exe import` | Load tasks from `tasks.txt` |
+| ➕ **add** | `.\To-DoList.exe add "Learn C#"` | Add a new task |
+| 📋 **list** | `.\To-DoList.exe list` | List all tasks |
+| 🔍 **search** | `.\To-DoList.exe search "C#"` | Search tasks by keyword |
+| ❌ **remove** | `.\ToDo-List.exe remove 2` | Remove task #2 |
+| 🧹 **clear** | `.\To-DoList.exe clear` | Clear all tasks |
+| ✏️ **update** | `.\To-DoList.exe update 1 "Study C# in depth"` | Update task #1 |
+| ✅ **mark** | `.\To-DoList.exe mark 1` | Mark task #1 as completed |
+| 📤 **export** | `.\To-DoList.exe export` | Save tasks into `tasks.txt` |
+| 📥 **import** | `.\To-DoList.exe import` | Load tasks from `tasks.txt` |
 
 
 ## 🎯 Learning Outcomes
